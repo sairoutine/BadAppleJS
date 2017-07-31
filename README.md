@@ -18,3 +18,7 @@ https://sairoutine.github.io/BadAppleJS/
 And, You will see Bad Apple!! animation :tada:
 
 Note: If it is shown "Exception thrown, see JavaScript console", Please reload the browser.
+
+# ScreenShot
+![](./screenshot1.png)
+![](./screenshot2.png)
