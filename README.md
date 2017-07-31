@@ -8,15 +8,13 @@ This is made by [emscripten](https://github.com/kripken/emscripten) and [em-dosb
 
 # How To Play
 
-1.
-Access the URI
+1. Access the URI
 https://sairoutine.github.io/BadAppleJS/
 
-2.
-You'll be asked "Choose sound device", so input 3 and Enter.
+2. You'll be asked "Choose sound device", so input 3 and Enter.
 
-3. 
-You'll be asked "Press enter to start", so input Enter.
+3.  You'll be asked "Press enter to start", so input Enter.
+
 And, You will see Bad Apple!! animation :tada:
 
 Note: If it is shown "Exception thrown, see JavaScript console", Please reload the browser.
