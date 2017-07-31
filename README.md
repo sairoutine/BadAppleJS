@@ -20,5 +20,5 @@ And, You will see Bad Apple!! animation :tada:
 Note: If it is shown "Exception thrown, see JavaScript console", Please reload the browser.
 
 # ScreenShot
-![](./screenshot1.png)
-![](./screenshot2.png)
+<img src="./screenshot1.png" width=50% height=50%>
+<img src="./screenshot2.png" width=50% height=50%>
